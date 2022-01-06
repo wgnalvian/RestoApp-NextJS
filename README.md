@@ -7,6 +7,7 @@ Packages
 List packages used :
 - Next.js (node.js + react.js)
 - Json Web Token
+- Chakra UI
 
 Database
 --------
